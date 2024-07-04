@@ -1,0 +1,693 @@
+word,replacement,category,affix_type,number
+ballboy,ball person,boy,suffix,SG
+ballboys,ball people,boy,suffix,PL
+batboy,bat person,boy,suffix,SG
+batboys,bat people,boy,suffix,PL
+bellboy,bellhop,boy,suffix,SG
+bellboys,bellhops,boy,suffix,PL
+boyband,band,boy,prefix,SG
+boybands,bands,boy,prefix,PL
+boyfriend,partner,boy,prefix,SG
+boyfriends,partners,boy,prefix,PL
+boyish,childish,boy,prefix,SG
+boyishly,childishly,boy,prefix,SG
+boyism,childism,boy,prefix,SG
+boyisms,childisms,boy,prefix,PL
+boyscout,scout,boy,prefix,SG
+boyscouts,scouts,boy,prefix,PL
+boytoy,toy,boy,prefix,SG
+boytoys,toys,boy,prefix,PL
+busboy,restaurant attendant,boy,suffix,SG
+busboys,restaurant attendants,boy,suffix,PL
+callboy,sex worker,boy,suffix,SG
+callboys,sex workers,boy,suffix,PL
+copyboy,junior newspaper worker,boy,suffix,SG
+copyboys,junior newspaper workers,boy,suffix,PL
+cowboy,cow herder,boy,suffix,SG
+cowboys,cow herders,boy,suffix,PL
+doughboy,foot soldier,boy,suffix,SG
+doughboys,foot soldiers,boy,suffix,PL
+fanboy,fan,boy,suffix,SG
+fanboys,fans,boy,suffix,PL
+farmboy,farm worker,boy,suffix,SG
+farmboys,farm workers,boy,suffix,PL
+femboy,effeminate person,boy,suffix,SG
+femboys,effeminate people,boy,suffix,PL
+fisherboy,young fisher,boy,suffix,SG
+fisherboys,young fishers,boy,suffix,PL
+fratboy,fraternity member,boy,suffix,SG
+fratboys,fraternity members,boy,suffix,PL
+headboy,student leader,boy,suffix,SG
+headboys,student leaders,boy,suffix,PL
+homeboy,fellow member,boy,suffix,SG
+homeboys,fellow members,boy,suffix,PL
+houseboy,domestic worker,boy,suffix,SG
+houseboys,domestic workers,boy,suffix,PL
+ladyboy,genderqueer person,boy,suffix,SG
+ladyboys,genderqueer people,boy,suffix,PL
+nancyboy,nancy,boy,suffix,SG
+nancyboys,nancies,boy,suffix,PL
+newsboy,newspaper delivery person,boy,suffix,SG
+newsboys,newspaper delivery people,boy,suffix,PL
+paperboy,newspaper delivery person,boy,suffix,SG
+paperboys,newspaper delivery people,boy,suffix,PL
+playboy,player,boy,suffix,SG
+playboys,players,boy,suffix,PL
+plowboy,plower,boy,suffix,SG
+plowboys,plowers,boy,suffix,PL
+tomboy,boisterous child,boy,suffix,SG
+tomboys,boisterous children,boy,suffix,PL
+toyboy,toy,boy,suffix,SG
+toyboys,toys,boy,suffix,PL
+babygirl,baby,girl,suffix,SG
+babygirls,babies,girl,suffix,PL
+ballgirl,ball person,girl,suffix,SG
+ballgirls,ball people,girl,suffix,PL
+bargirl,bartender,girl,suffix,SG
+bargirls,bartenders,girl,suffix,PL
+callgirl,sex worker,girl,suffix,SG
+callgirls,sex workers,girl,suffix,PL
+cavegirl,caveperson,girl,suffix,SG
+cavegirls,cavepeople,girl,suffix,PL
+cowgirl,cow herder,girl,suffix,SG
+cowgirls,cow herders,girl,suffix,PL
+fangirl,fan,girl,suffix,SG
+fangirls,fans,girl,suffix,PL
+farmgirl,farm worker,girl,suffix,SG
+farmgirls,farm workers,girl,suffix,PL
+girldom,feminine sphere,girl,prefix,SG
+girldoms,feminine spheres,girl,prefix,PL
+girlfag,woman attracted to gay men,girl,prefix,SG
+girlfags,women attracted to gay men,girl,prefix,PL
+girlfight,fight,girl,prefix,SG
+girlfights,fights,girl,prefix,PL
+girlfriend,partner,girl,prefix,SG
+girlfriends,partners,girl,prefix,PL
+girlification,feminization,girl,prefix,SG
+girlifications,feminizations,girl,prefix,PL
+girliness,femininity,girl,prefix,SG
+girlinesses,femininities,girl,prefix,PL
+girlish,feminine,girl,prefix,SG
+girlishly,childishly,girl,prefix,SG
+girllove,love,girl,prefix,SG
+girlloves,loves,girl,prefix,PL
+girlpower,power,girl,prefix,SG
+girlpowers,powers,girl,prefix,PL
+papergirl,newspaper delivery person,girl,suffix,SG
+papergirls,newspaper delivery people,girl,suffix,PL
+playgirl,player,girl,suffix,SG
+playgirls,players,girl,suffix,PL
+showgirl,performer,girl,suffix,SG
+showgirls,performers,girl,suffix,PL
+slavegirl,slave,girl,suffix,SG
+slavegirls,slaves,girl,suffix,PL
+snowgirl,snowperson,girl,suffix,SG
+snowgirls,snowpeople,girl,suffix,PL
+tomgirl,timid child,girl,suffix,SG
+tomgirls,timid children,girl,suffix,PL
+adman,advertiser,man,suffix,SG
+admen,advertisers,man,suffix,PL
+almsman,medical social worker,man,suffix,SG
+almsmen,medical social workers,man,suffix,PL
+ambulanceman,emergency medical technician,man,suffix,SG
+ambulancemen,emergency medical technicians,man,suffix,PL
+anchorman,anchorperson,man,suffix,SG
+anchormen,anchorpeople,man,suffix,PL
+artilleryman,cannoneer,man,suffix,SG
+artillerymen,cannoneers,man,suffix,PL
+assemblyman,assembly member,man,suffix,SG
+assemblymen,assembly members,man,suffix,PL
+assman,assperson,man,suffix,SG
+assmen,asspeople,man,suffix,PL
+backwoodsman,explorer,man,suffix,SG
+backwoodsmen,explorers,man,suffix,PL
+bagman,travelling salesperson,man,suffix,SG
+bagmen,travelling salespeople,man,suffix,PL
+bargeman,barge operator,man,suffix,SG
+bargemen,barge operators,man,suffix,PL
+barman,bartender,man,suffix,SG
+barmen,bartenders,man,suffix,PL
+baseman,baseperson,man,suffix,SG
+basemen,basepeople,man,suffix,PL
+batsman,batter,man,suffix,SG
+batsmen,batters,man,suffix,PL
+bellman,bellhop,man,suffix,SG
+bellmen,bellhops,man,suffix,PL
+binman,garbage collector,man,suffix,SG
+binmen,garbage collectors,man,suffix,PL
+bluesman,bluesperson,man,suffix,SG
+bluesmen,bluespeople,man,suffix,PL
+boatman,boater,man,suffix,SG
+boatmen,boaters,man,suffix,PL
+bogeyman,monster,man,suffix,SG
+bogeymen,monsters,man,suffix,PL
+bondman,slave,man,suffix,SG
+bondmen,slaves,man,suffix,PL
+bondsman,slave,man,suffix,SG
+bondsmen,slaves,man,suffix,PL
+boogieman,monster,man,suffix,SG
+boogiemen,monsters,man,suffix,PL
+bowman,archer,man,suffix,SG
+bowmen,archers,man,suffix,PL
+bushman,indigenous person,man,suffix,SG
+bushmen,indigenous people,man,suffix,PL
+businessman,businessperson,man,suffix,SG
+businessmen,businesspeople,man,suffix,PL
+busman,bus driver,man,suffix,SG
+busmen,bus drivers,man,suffix,PL
+cabman,cabdriver,man,suffix,SG
+cabmen,cabdrivers,man,suffix,PL
+cameraman,cameraperson,man,suffix,SG
+cameramen,camerapeople,man,suffix,PL
+cavalryman,trooper,man,suffix,SG
+cavalrymen,troopers,man,suffix,PL
+caveman,caveperson,man,suffix,SG
+cavemen,cavepeople,man,suffix,PL
+centerman,center,man,suffix,SG
+centermen,centers,man,suffix,PL
+centreman,centre,man,suffix,SG
+centremen,centres,man,suffix,PL
+chessman,chess figure,man,suffix,SG
+chessmen,chess figures,man,suffix,PL
+churchman,cleric,man,suffix,SG
+churchmen,clerics,man,suffix,PL
+clansman,clan member,man,suffix,SG
+clansmen,clan members,man,suffix,PL
+classman,classmate,man,suffix,SG
+classmen,classmates,man,suffix,PL
+coachman,coach driver,man,suffix,SG
+coachmen,coach drivers,man,suffix,PL
+cocksman,sexually talented person,man,suffix,SG
+cocksmen,sexually talented people,man,suffix,PL
+con-man,con artist,man,suffix,SG
+con-men,con artists,man,suffix,PL
+congressman,congressperson,man,suffix,SG
+congressmen,congresspeople,man,suffix,PL
+conman,con artist,man,suffix,SG
+conmen,con artists,man,suffix,PL
+cornerman,second,man,suffix,SG
+cornermen,seconds,man,suffix,PL
+cornishman,Cornish person,man,suffix,SG
+cornishmen,Cornish people,man,suffix,PL
+corpsman,medical assistant,man,suffix,SG
+corpsmen,medical assistants,man,suffix,PL
+counterman,counterperson,man,suffix,SG
+countermen,counterpeople,man,suffix,PL
+craftsman,craftsperson,man,suffix,SG
+craftsmen,craftspeople,man,suffix,PL
+crewman,crew member,man,suffix,SG
+crewmen,crew members,man,suffix,PL
+crossbowman,arbalist,man,suffix,SG
+crossbowmen,arbalists,man,suffix,PL
+cutman,medical attendant,man,suffix,SG
+cutmen,medical attendants,man,suffix,PL
+dairyman,dairy worker,man,suffix,SG
+dairymen,dairy workers,man,suffix,PL
+deadman,corpse,man,suffix,SG
+deadmen,corpses,man,suffix,PL
+defenceman,defender,man,suffix,SG
+defencemen,defenders,man,suffix,PL
+defenseman,defender,man,suffix,SG
+defensemen,defenders,man,suffix,PL
+deskman,desk sergeant,man,suffix,SG
+deskmen,desk sergeants,man,suffix,PL
+discman,portable CD player,man,suffix,SG
+discmen,portable CD players,man,suffix,PL
+draftsman,draftsperson,man,suffix,SG
+draftsmen,draftspeople,man,suffix,PL
+draughtsman,draughtsperson,man,suffix,SG
+draughtsmen,draughtspeople,man,suffix,PL
+dutchman,netherlander,man,suffix,SG
+dutchmen,netherlanders,man,suffix,PL
+everyman,ordinary person,man,suffix,SG
+everymen,ordinary people,man,suffix,PL
+expressman,expressperson,man,suffix,SG
+expressmen,expresspeople,man,suffix,PL
+fireman,firefighter,man,suffix,SG
+firemen,firefighters,man,suffix,PL
+fisherman,fisher,man,suffix,SG
+fishermen,fishers,man,suffix,PL
+flagman,traffic guard,man,suffix,SG
+flagmen,traffic guards,man,suffix,PL
+footman,servant,man,suffix,SG
+footmen,servants,man,suffix,PL
+foreman,foreperson,man,suffix,SG
+foremen,forepeople,man,suffix,PL
+freedman,freedperson,man,suffix,SG
+freedmen,freedpeople,man,suffix,PL
+freeman,freeperson,man,suffix,SG
+freemen,freepeople,man,suffix,PL
+frenchman,French person,man,suffix,SG
+frenchmen,French people,man,suffix,PL
+freshman,first-year student,man,suffix,SG
+freshmen,first-year students,man,suffix,PL
+frogman,diver,man,suffix,SG
+frogmen,divers,man,suffix,PL
+frontiersman,explorer,man,suffix,SG
+frontiersmen,explorers,man,suffix,PL
+frontman,frontperson,man,suffix,SG
+frontmen,frontpeople,man,suffix,PL
+garageman,mechanic,man,suffix,SG
+garagemen,mechanics,man,suffix,PL
+gateman,gatekeeper,man,suffix,SG
+gatemen,gatekeepers,man,suffix,PL
+gentleman,refined person,man,suffix,SG
+gentlemans,refined people,man,suffix,PL
+gleeman,minstrel,man,suffix,SG
+gleemen,minstrels,man,suffix,PL
+glovesman,boxer,man,suffix,SG
+glovesmen,boxers,man,suffix,PL
+groomsman,groomsperson,man,suffix,SG
+groomsmen,groomspeople,man,suffix,PL
+groundsman,groundskeeper,man,suffix,SG
+groundsmen,groundskeepers,man,suffix,PL
+guardsman,guard,man,suffix,SG
+guardsmen,guards,man,suffix,PL
+handicraftsman,handicraftsperson,man,suffix,SG
+handicraftsmen,handicraftspeople,man,suffix,PL
+hangman,executioner,man,suffix,SG
+hangmen,executioners,man,suffix,PL
+headman,executioner,man,suffix,SG
+headmen,executioners,man,suffix,PL
+headsman,executioner,man,suffix,SG
+headsmen,executioners,man,suffix,PL
+hitman,assassin,man,suffix,SG
+hitmen,assassins,man,suffix,PL
+horseman,equestrian,man,suffix,SG
+horsemen,equestrians,man,suffix,PL
+huntsman,hunter,man,suffix,SG
+huntsmen,hunters,man,suffix,PL
+iceman,ice vendor,man,suffix,SG
+icemen,ice vendors,man,suffix,PL
+jokerman,joker,man,suffix,SG
+jokermen,jokers,man,suffix,PL
+journeyman,artisan,man,suffix,SG
+journeymen,artisans,man,suffix,PL
+kinsman,relative,man,suffix,SG
+kinsmen,relatives,man,suffix,PL
+landsman,landlubber,man,suffix,SG
+landsmen,landlubbers,man,suffix,PL
+lawman,law officer,man,suffix,SG
+lawmen,law officers,man,suffix,PL
+lensman,photographer,man,suffix,SG
+lensmen,photographers,man,suffix,PL
+lifeboatman,lifeboat sailor,man,suffix,SG
+lifeboatmen,lifeboat sailors,man,suffix,PL
+liftman,lift operator,man,suffix,SG
+liftmen,lift operators,man,suffix,PL
+lineman,lineperson,man,suffix,SG
+linemen,linepeople,man,suffix,PL
+linesman,linesperson,man,suffix,SG
+linesmen,linespeople,man,suffix,PL
+lobsterman,lobster catcher,man,suffix,SG
+lobstermen,lobster catchers,man,suffix,PL
+longshoreman,dockworker,man,suffix,SG
+longshoremen,dockworkers,man,suffix,PL
+lumberman,logger,man,suffix,SG
+lumbermen,loggers,man,suffix,PL
+madman,maniac,man,suffix,SG
+madmen,maniacs,man,suffix,PL
+mailman,mail carrier,man,suffix,SG
+mailmen,mail carriers,man,suffix,PL
+man cave,sanctuary,man,prefix,SG
+man caves,sanctuaries,man,prefix,PL
+man hater,hater,man,prefix,SG
+man haters,haters,man,prefix,PL
+man hating,misandry,man,prefix,SG
+man hug,pound hug,man,prefix,SG
+man hugs,pound hugs,man,prefix,PL
+man hunt,organized search,man,prefix,SG
+man hunts,organized searches,man,prefix,PL
+man magnet,attractive person,man,prefix,SG
+man magnets,attractive people,man,prefix,PL
+man marking,marking,man,prefix,SG
+man servant,servant,man,prefix,SG
+man servants,servants,man,prefix,PL
+man up,adult up,man,prefix,SG
+man-ass,ass,man,prefix,SG
+man-asses,asses,man,prefix,PL
+man-bag,handbag,man,prefix,SG
+man-bags,handbags,man,prefix,PL
+man-boob,boob,man,prefix,PL
+man-boobs,boobs,man,prefix,SG
+man-cave,sanctuary,man,prefix,SG
+man-caves,sanctuaries,man,prefix,PL
+man-cession,recession,man,prefix,SG
+man-cessions,recessions,man,prefix,PL
+man-child,child,man,prefix,SG
+man-childs,children,man,prefix,PL
+man-crush,crush,man,prefix,SG
+man-crushes,crushes,man,prefix,PL
+man-eater,cannibal,man,prefix,SG
+man-eaters,cannibals,man,prefix,PL
+man-eating,human-eating,man,prefix,SG
+man-friend,friend,man,prefix,SG
+man-friends,friends,man,prefix,PL
+man-hater,hater,man,prefix,SG
+man-haters,haters,man,prefix,PL
+man-hating,misandry,man,prefix,SG
+man-hatings,misandries,man,prefix,PL
+man-hour,work-hour,man,prefix,SG
+man-hours,work-hours,man,prefix,PL
+man-hug,pound hug,man,prefix,SG
+man-hugs,pound hugs,man,prefix,PL
+man-hunt,organized search,man,prefix,SG
+man-hunts,organized searches,man,prefix,PL
+man-kind,humankind,man,prefix,SG
+man-kinds,humankinds,man,prefix,PL
+man-machine,human-computer,man,prefix,SG
+man-machines,human-computers,man,prefix,PL
+man-made,synthetic,man,prefix,SG
+man-magnet,attractive person,man,prefix,SG
+man-magnets,attractive people,man,prefix,PL
+man-mark,mark,man,prefix,SG
+man-marks,marks,man,prefix,PL
+man-marking,marking,man,prefix,SG
+man-markings,markings,man,prefix,SG
+man-month,work-month,man,prefix,SG
+man-pack,pack,man,prefix,SG
+man-packs,packs,man,prefix,PL
+man-power,workforce,man,prefix,SG
+man-powers,workforces,man,prefix,PL
+man-rating,human-rating,man,prefix,SG
+man-ratings,human-ratings,man,prefix,PL
+man-servant,servant,man,prefix,SG
+man-stealing,kidnapping,man,prefix,SG
+man-stopper,stopping power,man,prefix,SG
+man-stoppers,stopping powers,man,prefix,PL
+man-trap,attractive person,man,prefix,SG
+man-traps,attractive people,man,prefix,PL
+man-up,adult up,man,prefix,SG
+man-whore,sex worker,man,prefix,SG
+man-whores,sex workers,man,prefix,PL
+man-year,work-year,man,prefix,SG
+mancession,recession,man,prefix,SG
+mancessions,recessions,man,prefix,PL
+manfriend,friend,man,prefix,SG
+manfriends,friends,man,prefix,PL
+mankind,humankind,man,prefix,SG
+mankinds,humankinds,man,prefix,PL
+manpack,pack,man,prefix,SG
+manpacks,packs,man,prefix,PL
+manpower,workforce,man,prefix,SG
+manpowers,workforces,man,prefix,PL
+manstealing,kidnapping,man,prefix,SG
+manstopper,stopping power,man,prefix,SG
+manstoppers,stopping powers,man,prefix,PL
+marksman,sharpshooter,man,suffix,SG
+marksmen,sharpshooters,man,suffix,PL
+merchantman,merchant,man,suffix,SG
+merchantmen,merchants,man,suffix,PL
+merman,merperson,man,suffix,SG
+mermen,merpeople,man,suffix,PL
+midshipman,naval officer,man,suffix,SG
+midshipmen,naval officers,man,suffix,PL
+militiaman,militia member,man,suffix,SG
+militiamen,militia members,man,suffix,PL
+minuteman,soldier,man,suffix,SG
+minutemen,soldiers,man,suffix,PL
+motorman,operator,man,suffix,SG
+motormen,operators,man,suffix,PL
+newsman,reporter,man,suffix,SG
+newsmen,reporters,man,suffix,PL
+newspaperman,journalist,man,suffix,SG
+newspapermen,journalists,man,suffix,PL
+nightwatchman,nightwatchbatter,man,suffix,SG
+nightwatchmen,nightwatchbatters,man,suffix,PL
+nobleman,noble person,man,suffix,SG
+noblemans,noble people,man,suffix,PL
+oarsman,rower,man,suffix,SG
+oarsmen,rowers,man,suffix,PL
+ombudsman,ombudsperson,man,suffix,SG
+ombudsmen,ombudspeople,man,suffix,PL
+overman,übermensch,man,suffix,SG
+overmen,übermenschen,man,suffix,PL
+oysterman,oysterperson,man,suffix,SG
+oystermen,oysterpeople,man,suffix,PL
+packetman,packet sailor,man,suffix,SG
+packetmen,packet sailors,man,suffix,PL
+packman,seller,man,suffix,SG
+packmen,sellers,man,suffix,PL
+pieman,pie vendor,man,suffix,SG
+piemen,pie vendors,man,suffix,PL
+pitchman,pitcher,man,suffix,SG
+pitchmen,pitchers,man,suffix,PL
+placeman,appointee,man,suffix,SG
+placemen,appointees,man,suffix,PL
+ploughman,plower,man,suffix,SG
+ploughmen,plowers,man,suffix,PL
+plowman,plower,man,suffix,SG
+plowmen,plowers,man,suffix,PL
+pointsman,traffic officer,man,suffix,SG
+pointsmen,traffic officers,man,suffix,PL
+policeman,police officer,man,suffix,SG
+policemen,police officers,man,suffix,PL
+postman,mail carrier,man,suffix,SG
+postmen,mail carriers,man,suffix,PL
+pressman,printer,man,suffix,SG
+pressmen,printers,man,suffix,PL
+prman,press agent,man,suffix,SG
+prmen,press agents,man,suffix,PL
+rubberman,latex fetishist,man,suffix,SG
+rubbermen,latex fetishists,man,suffix,PL
+seaman,sailor,man,suffix,SG
+seamen,sailors,man,suffix,PL
+seedsman,seeds dealer,man,suffix,SG
+seedsmen,seeds dealers,man,suffix,PL
+selectman,member of the board,man,suffix,SG
+selectmen,members of the board,man,suffix,PL
+serviceman,service member,man,suffix,SG
+servicemen,service members,man,suffix,PL
+she-man,feminine person,man,suffix,SG
+she-men,feminine people,man,suffix,PL
+sheepman,shepherd,man,suffix,SG
+sheepmen,shepherds,man,suffix,PL
+showman,showperson,man,suffix,SG
+showmen,showpeople,man,suffix,PL
+sideman,side artist,man,suffix,SG
+sidemen,side artists,man,suffix,PL
+slaughterman,butcher,man,suffix,SG
+slaughtermen,butchers,man,suffix,PL
+snowman,snowperson,man,suffix,SG
+snowmen,snowpeople,man,suffix,PL
+soundman,audio engineer,man,suffix,SG
+soundmen,audio engineers,man,suffix,PL
+spaceman,astronaut,man,suffix,SG
+spacemen,astronauts,man,suffix,PL
+spearfisherman,spearfisher,man,suffix,SG
+spearfishermen,spearfishers,man,suffix,PL
+spearman,lancer,man,suffix,SG
+spearmen,lancers,man,suffix,PL
+spokeman,spokeperson,man,suffix,SG
+spokemen,spokepeople,man,suffix,PL
+spokesman,spokesperson,man,suffix,SG
+spokesmen,spokespeople,man,suffix,PL
+sportsman,athlete,man,suffix,SG
+sportsmen,athletes,man,suffix,PL
+statesman,statesperson,man,suffix,SG
+statesmen,statespeople,man,suffix,PL
+stickman,stick figure,man,suffix,SG
+stickmen,stick figures,man,suffix,PL
+stockman,stock farmer,man,suffix,SG
+stockmen,stock farmers,man,suffix,PL
+storeman,warehouser,man,suffix,SG
+storemen,warehousers,man,suffix,PL
+strongman,strong person,man,suffix,SG
+strongmen,strong people,man,suffix,PL
+sub-man,inferior human,man,suffix,SG
+sub-men,inferior humans,man,suffix,PL
+superman,superhero,man,suffix,SG
+supermen,superheroes,man,suffix,PL
+swagman,transient labourer,man,suffix,SG
+swagmen,transient labourers,man,suffix,PL
+swingman,versatile athlete,man,suffix,SG
+swingmen,versatile athletes,man,suffix,PL
+switchman,railroad worker,man,suffix,SG
+switchmen,railroad workers,man,suffix,PL
+swordman,fencer,man,suffix,SG
+swordmen,fencers,man,suffix,PL
+swordsman,fencer,man,suffix,SG
+swordsmen,fencers,man,suffix,PL
+targetman,forward,man,suffix,SG
+targetmen,forwards,man,suffix,PL
+taxman,tax collector,man,suffix,SG
+taxmen,tax collectors,man,suffix,PL
+townsman,townsperson,man,suffix,SG
+townsmen,townspeople,man,suffix,PL
+tribesman,tribesperson,man,suffix,SG
+tribesmen,tribespeople,man,suffix,PL
+triggerman,hired gun,man,suffix,SG
+triggermen,hired guns,man,suffix,PL
+underclassman,undergraduate,man,suffix,SG
+underclassmen,undergraduates,man,suffix,PL
+upperclassman,student,man,suffix,SG
+upperclassmen,students,man,suffix,PL
+warehouseman,warehouse worker,man,suffix,SG
+warehousemen,warehouse workers,man,suffix,PL
+washerman,washer,man,suffix,SG
+washermen,washers,man,suffix,PL
+watchman,watcher,man,suffix,SG
+watchmen,watchers,man,suffix,PL
+weatherman,weather forecaster,man,suffix,SG
+weathermen,weather forecasters,man,suffix,PL
+wheelman,driver,man,suffix,SG
+wheelmen,drivers,man,suffix,PL
+whiteman,white person,man,suffix,SG
+whitemen,white people,man,suffix,PL
+wildman,wild person,man,suffix,SG
+wildmen,wild people,man,suffix,PL
+winchman,rescue swimmer,man,suffix,SG
+winchmen,rescue swimmers,man,suffix,PL
+wingman,pilot partner,man,suffix,SG
+wingmen,pilot partners,man,suffix,PL
+woodman,woodworker,man,suffix,SG
+woodmen,woodworkers,man,suffix,PL
+woodsman,forester,man,suffix,SG
+woodsmen,foresters,man,suffix,PL
+workingman,worker,man,suffix,SG
+workingmen,workers,man,suffix,PL
+workman,worker,man,suffix,SG
+workmen,workers,man,suffix,PL
+yeoman,officer,man,suffix,SG
+yeomen,officers,man,suffix,PL
+airmanship,aerial skill,manship,suffix,SG
+airmanships,aerial skills,manship,suffix,PL
+batsmanship,batting skill,manship,suffix,SG
+batsmanships,batting skills,manship,suffix,PL
+brinkmanship,extreme strategy,manship,suffix,SG
+brinkmanships,extreme strategies,manship,suffix,PL
+brinksmanship,extreme strategy,manship,suffix,SG
+brinksmanships,extreme strategies,manship,suffix,PL
+chairmanship,chairpersonship,manship,suffix,SG
+chairmanships,chairpersonships,manship,suffix,PL
+churchmanships ,churchpersonships,manship,suffix,PL
+churchmanship ,churchpersonship,manship,suffix,SG
+craftmanship,craftpersonship,manship,suffix,SG
+craftmanships,craftpersonships,manship,suffix,PL
+craftsmanship,craftspersonship,manship,suffix,SG
+craftsmanships,craftspersonships,manship,suffix,PL
+draftsmanship,draftspersonship,manship,suffix,SG
+draftsmanships,draftspersonships,manship,suffix,PL
+draughtsmanship,draughtspersonship,manship,suffix,SG
+draughtsmanships,draughtspersonships,manship,suffix,PL
+foremanship,forepersonship,manship,suffix,SG
+foremanships,forepersonships,manship,suffix,PL
+gamesmanship,unsporting tactic,manship,suffix,SG
+gamesmanships,unsporting tactics,manship,suffix,PL
+gentlemanship,refinedness,manship,suffix,SG
+gentlemanships,refinednesses,manship,suffix,PL
+grantsmanship,grant acquisition expertise,manship,suffix,SG
+grantsmanships,grant acquisition expertises,manship,suffix,PL
+handcraftsmanship,handcraftspersonship,manship,suffix,SG
+handcraftsmanships,handcraftspersonships,manship,suffix,PL
+horsemanship,equestrian skill,manship,suffix,SG
+horsemanships,equestrian skills,manship,suffix,PL
+journeymanship,artisanship,manship,suffix,SG
+journeymanships,artisanships,manship,suffix,PL
+manship,courage,manship,suffix,SG
+manships,courages,manship,suffix,PL
+marksmanship,sharpshooting skill,manship,suffix,SG
+marksmanships,sharpshooting skills,manship,suffix,PL
+oarsmanship,rowing skill,manship,suffix,SG
+oarsmanships,rowing skills,manship,suffix,PL
+penmanship,calligraphy,manship,suffix,SG
+penmanships,calligraphies,manship,suffix,PL
+salesmanship,selling skill,manship,suffix,SG
+salesmanships,selling skills,manship,suffix,PL
+seamanship,marine skill,manship,suffix,SG
+seamanships,marine skills,manship,suffix,PL
+showmanship,performing skill,manship,suffix,SG
+showmanships,performing skills,manship,suffix,PL
+sportsmanship,athletic skill,manship,suffix,SG
+sportsmanships,athletic skills,manship,suffix,PL
+statesmanship,public management skill,manship,suffix,SG
+statesmanships,public management skills,manship,suffix,PL
+stockmanship,livestock raising skill,manship,suffix,SG
+stockmanships,livestock raising skills,manship,suffix,PL
+swordsmanship,fencing skill,manship,suffix,SG
+swordsmanships,fencing skills,manship,suffix,PL
+upmanship,competitive behavior,manship,suffix,SG
+upmanships,competitive behaviors,manship,suffix,PL
+workmanship,workpersonship,manship,suffix,SG
+workmanships,workpersonships,manship,suffix,PL
+ambulancewoman,emergency medical technician,woman,suffix,SG
+ambulancewomen,emergency medical technicians,woman,suffix,PL
+anchorwoman,anchorperson,woman,suffix,SG
+anchorwomen,anchorpeople,woman,suffix,PL
+anti-woman,misogynist,woman,suffix,SG
+anti-women,misogynists,woman,suffix,PL
+antiwoman,misogynist,woman,suffix,SG
+antiwomen,misogynists,woman,suffix,PL
+bogeywoman,monster,woman,suffix,SG
+bogeywomen,monsters,woman,suffix,PL
+bondwoman,slave,woman,suffix,SG
+bondwomen,slaves,woman,suffix,PL
+businesswoman,businessperson,woman,suffix,SG
+businesswomen,businesspeople,woman,suffix,PL
+cavewoman,caveperson,woman,suffix,SG
+cavewomen,cavepeople,woman,suffix,PL
+charwoman,cleaner,woman,suffix,SG
+charwomen,cleaners,woman,suffix,PL
+congresswoman,congressperson,woman,suffix,SG
+congresswomen,congresspeople,woman,suffix,PL
+craftswoman,craftsoerson,woman,suffix,SG
+craftswomen,craftsoersons,woman,suffix,PL
+everywoman,ordinary person,woman,suffix,SG
+everywomen,ordinary people,woman,suffix,PL
+fisherwoman,fisher,woman,suffix,SG
+fisherwomen,fishers,woman,suffix,PL
+forewoman,foreperson,woman,suffix,SG
+forewomen,forepeople,woman,suffix,PL
+frontierswoman,explorer,woman,suffix,SG
+frontierswomen,explorers,woman,suffix,PL
+frontwoman,frontperson,woman,suffix,SG
+frontwomen,frontpeople,woman,suffix,PL
+gentlewoman,refined person,woman,suffix,SG
+gentlewomen,refined people,woman,suffix,PL
+hitwoman,assassin,woman,suffix,SG
+hitwomen,assassins,woman,suffix,PL
+horsewoman,equestrian,woman,suffix,SG
+horsewomen,equestrians,woman,suffix,PL
+madwoman,maniac,woman,suffix,SG
+madwomen,maniacs,woman,suffix,PL
+man-woman,masculine person,woman,suffix,SG
+man-women,masculine people,woman,suffix,PL
+manwoman,masculine person,woman,suffix,SG
+manwomen,masculine people,woman,suffix,PL
+markswoman,sharpshooter,woman,suffix,SG
+markswomen,sharpshooters,woman,suffix,PL
+newswoman,reporter,woman,suffix,SG
+newswomen,reporters,woman,suffix,PL
+noblewoman,noble person,woman,suffix,SG
+noblewomen,noble people,woman,suffix,PL
+policewoman,police officer,woman,suffix,SG
+policewomen,police officers,woman,suffix,PL
+selectwoman,member of the board,woman,suffix,SG
+selectwomen,members of the board,woman,suffix,PL
+servicewoman,service member,woman,suffix,SG
+servicewomen,service members,woman,suffix,PL
+spokeswoman,spokesperson,woman,suffix,SG
+spokeswomen,spokespeople,woman,suffix,PL
+spokewoman,spokeperson,woman,suffix,SG
+spokewomen,spokepeople,woman,suffix,PL
+sportswoman,athlete,woman,suffix,SG
+sportswomen,athletes,woman,suffix,PL
+stateswoman,statesperson,woman,suffix,SG
+stateswomen,statespeople,woman,suffix,PL
+swordswoman,fencer,woman,suffix,SG
+swordswomen,fencers,woman,suffix,PL
+tribeswoman,tribesperson,woman,suffix,SG
+tribeswomen,tribespeople,woman,suffix,PL
+washerwoman,washer,woman,suffix,SG
+washerwomen,washers,woman,suffix,PL
+womanism,feminism,woman,prefix,SG
+womanisms,feminisms,woman,prefix,PL
+womanist,feminist,woman,prefix,SG
+womanists,feminists,woman,prefix,PL
+womankind,humankind,woman,prefix,SG
+womankinds,humankinds,woman,prefix,PL
+womanly,feminine,woman,prefix,SG
+stateswomanship,statespersonship,womanship,suffix,SG
+stateswomanships,statespersonships,womanship,suffix,PL
+workwomanship,workpersonship,womanship,suffix,SG
+workwomanships,workpersonships,womanship,suffix,PL

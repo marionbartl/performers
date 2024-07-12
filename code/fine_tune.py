@@ -11,26 +11,11 @@ if __name__ == '__main__':
     import argparse
     parser = argparse.ArgumentParser(description='Get model name (currently only causal LM supported) and path to data.')
     parser.add_argument('--model_name', type=str, default='meta-llama/Llama-2-7b-hf')
-    parser.add_argument('--data', type=str, default='data/OWT-32M-f-neutral+/', help='path to data')
+    parser.add_argument('--data', type=str, help='path to data')
     parser.add_argument('--epochs', type=int, default=3, help='number of epochs')
-    parser.add_argument('--dtype', type=int, default=32, help='which data type to use (32, 16, 8, 4, 2, 1)')
 
     args = parser.parse_args()
-
-    #set the data type
-    if args.dtype == 32:
-        torch_dtype=torch.float32
-    elif args.dtype == 16:
-        torch_dtype=torch.float16
-    elif args.dtype == 8:
-        torch_dtype=torch.float8
-    elif args.dtype == 4:
-        torch_dtype=torch.float4
-    else:
-        raise ValueError('dtype not supported. Please submit either 32, 16, 8, 4, or 2.')
     
-    print(f'data type: {torch_dtype}')
-
     device = torch.device(
         'cuda') if torch.cuda.is_available() else torch.device('cpu')
     print('Using {} device'.format(device))
@@ -70,7 +55,7 @@ if __name__ == '__main__':
 
     # Load the pre-trained model and tokenizer
     model_name = args.model_name  # Replace with the desired model name 
-    model = AutoModelForCausalLM.from_pretrained(model_name, torch_dtype=torch_dtype, trust_remote_code=True)
+    model = AutoModelForCausalLM.from_pretrained(model_name, trust_remote_code=True)
     tokenizer = AutoTokenizer.from_pretrained(model_name)
     # tokenizer.add_special_tokens({'pad_token': '[PAD]'})
     tokenizer.pad_token = tokenizer.eos_token
@@ -129,7 +114,7 @@ if __name__ == '__main__':
     # Save the model
     print(trainer.state.log_history)
 
-    trainer.save_model('models/'+model_name+'-fine-tuned-'+str(args.dtype))
+    trainer.save_model('models/'+model_name+'-fine-tuned')
 
     metrics = train_result.metrics
     trainer.save_metrics(split='all', metrics=metrics)

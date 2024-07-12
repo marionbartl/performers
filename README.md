@@ -23,7 +23,7 @@ Then, install requirements, preferably into a virtual environment:
 pip install -r requirements.txt
 ```
 
-## Step 1 - Download Corpus
+## Step 1 &ndash; Download Corpus
 
 Run the following code, to download the **Small Heap Corpus**, consisiting of 250M tokens. The code will simultaneously also use Vanmassenhove et al.'s (2021) NeuTral Rewriter to create a version of the corpus with _he_/_she_ pronouns replaced by singular _they_.
 
@@ -37,9 +37,22 @@ python code/dataset_download.py --no_tokens 250000000 --log_dir logs/
 The `--no_tokens` argument can be used to adjust the size of the downloaded dataset.
 
 
-## Step 2 - Replace Gender-marking Words
+## Step 2 &ndash; Replace Gender-marking Words
+
+This script will do replacement of gender-marking with gender-neutral words based on the catalogue developed at this repository: [github.com/marionbartl/affixed_words](https://github.com/marionbartl/affixed_words)
+
+The script works on the original and neutral version of the corpus simultaneously. After replacement, the corpus directory name will have an attached '-R'. 
 
 ```sh
 python code/word_replacement.py --corpus data/small_heap_50M
 ```
 
+## Step 3 &ndash; Fine-tuning LLMs
+
+```
+python code/fine_tune.py --model_name [huggingface model identifier] --data data/fine-tuning/tiny_heap-neutral.txt
+```
+
+Fine-tuned models were not included, because they were too large for this repository. 
+
+## Step 4 &ndash; Evaluation

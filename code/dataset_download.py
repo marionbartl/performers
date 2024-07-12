@@ -32,16 +32,11 @@ if __name__ == '__main__':
     timer = Timer()
     logging('start time: ' + timestamp(), log_file)
 
-    corpus_dict = {#'openwebtext': {'source': 'the_pile_openwebtext2',
-                    #               'size': 1.0},
-                    'openwebtext': {'source': 'Skylion007/openwebtext',
+    # sources of small heap corpus and size of each subcorpus chunk
+    corpus_dict = {'openwebtext': {'source': 'Skylion007/openwebtext',
                                     'size': 0.5},
                     'wikipedia': {'source': 'olm/olm-wikipedia-20221001',
                                  'size': 0.2},
-                   # 'common_crawl': {'source': 'snoop2head/common_crawl',
-                   #                  'size': 0.6},
-                   # 'books3': {'source': 'the_pile_books3',  # too big to handle (even a single instance)
-                   #            'size': 0.16},
                     'cc-news': {'source': 'cc_news',
                                'size': 0.3}
                    }
@@ -50,8 +45,9 @@ if __name__ == '__main__':
     stats_dict = {'tokens': [], 'seconds': []}
 
     try:
+        # the raw number of tokens; for 1 million tokens, use 1000000
         no_overall_tokens = int(args.no_tokens)
-        # 1.6B tokens is approximately 8GB of data; the size of the original w2v training data
+        # convert the number of tokens to a human-readable format to be used in the file name later
         human_corpus_size = big_num_to_string(args.no_tokens)
     except ValueError:
         raise ValueError('Please provide a valid number of tokens without any letters or other characters.')
@@ -75,7 +71,7 @@ if __name__ == '__main__':
 
         # set up breaking condition (token limit) and path to save corpus file
         token_counter = 0
-        size_limit = int(info['size'] * no_overall_tokens)
+        size_limit = int(info['size'] * no_overall_tokens) # size limit for each subcorpus
         file_number = 0
         file_path = corpus_path + '/{0}_{1:05d}.txt'.format(corpus_name, file_number)
         file_path_neutral = corpus_path_neutral + '/{0}_{1:05d}.txt'.format(corpus_name, file_number)
@@ -104,13 +100,10 @@ if __name__ == '__main__':
                 for neutral_sent, sent in nr.process_document(text):
                     no_tokens = len(sent.split())
 
+                    # limit max sentence length to 1000 tokens
                     if no_tokens < 1000:
                         token_counter += no_tokens
                         overall_token_counter += no_tokens
-
-                        # make sure everything is unicode
-                        #sent_string = bytes(sent, 'utf-8').decode('utf-8', 'ignore')
-                        #neutral_sent_string = bytes(neutral_sent, 'utf-8').decode('utf-8', 'ignore')
 
                         # write unchanged + neutral sentence to file
                         file.write(sent + '\n')
@@ -133,10 +126,9 @@ if __name__ == '__main__':
             fsize = file_size(file_path).split()
             size_num = float(fsize[0])
             size_cat = fsize[1]
-            # if file size has reached one megabyte move over to new file
+            # if file size has reached one megabyte, move over to new file
             if size_cat == 'M' and size_num >= 1:
                 file_number += 1
-                # path = '../data/small-pile/{0}/{0}_{1:03d}.txt'.format(corpus_name, file_number)
                 file_path = corpus_path + '/{0}_{1:05d}.txt'.format(corpus_name, file_number)
                 file_path_neutral = corpus_path_neutral + '/{0}_{1:05d}.txt'.format(corpus_name, file_number)
 

@@ -28,7 +28,7 @@ if __name__ == '__main__':
         os.makedirs(corpus_path_fil)
 
     # read in replacement dictionary
-    replacement_df = pd.read_csv('data/terms/replacements_v2.tsv', sep='\t')
+    replacement_df = pd.read_csv('replacements+plural-final.csv')
     added_replacements = pd.read_csv('data/terms/gender_neutral_lexicon_vanmassenhove.csv')
 
     #remove all rows in added_replacements that are already in replacement_df

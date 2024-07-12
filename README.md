@@ -25,12 +25,21 @@ pip install -r requirements.txt
 
 ## Step 1 - Download Corpus
 
-Run the following code, to download the **Small Heap Corpus**, consisiting of 250M tokens. The corpus will be saved in the `data/` directory.
+Run the following code, to download the **Small Heap Corpus**, consisiting of 250M tokens. The code will simultaneously also use Vanmassenhove et al.'s (2021) NeuTral Rewriter to create a version of the corpus with _he_/_she_ pronouns replaced by singular _they_.
+
+The original and neutral corpus will be saved as `small_heap_[# tokens](-neutral)` in the `data/` directory.
 The code also creates a `logs` directory to save the progress and processing time of the download process.
 
 ```sh
 python code/dataset_download.py --no_tokens 250000000 --log_dir logs/
 ```
 
-The `--no_tokens` argument can be used to adjust the size of the downloaded dataset. 
+The `--no_tokens` argument can be used to adjust the size of the downloaded dataset.
+
+
+## Step 2 - Replace Gender-marking Words
+
+```sh
+python code/word_replacement.py --corpus data/small_heap_50M
+```
 

@@ -49,10 +49,22 @@ python code/word_replacement.py --corpus data/small_heap_50M
 
 ## Step 3 &ndash; Fine-tuning LLMs
 
+### With Python Script
+
 ```
 python code/fine_tune.py --model_name [huggingface model identifier] --data data/fine-tuning/tiny_heap-neutral.txt
 ```
 
+### With Notebook 
+
+For our experiments, we ran `fine_tuning.ipynb` on Google Colab. 
+
 Fine-tuned models were not included, because they were too large for this repository. 
 
 ## Step 4 &ndash; Evaluation
+
+### CrowS Pairs
+
+### RedditBias
+
+### HONEST

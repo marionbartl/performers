@@ -86,3 +86,5 @@ git clone https://github.com/umanlp/RedditBias.git
 
 For the HONEST evaluation, we used the python package from [https://github.com/MilaNLProc/honest](MilaNLP). 
 
+The code can be found at `code/HONEST_eval.ipynb`. 
+

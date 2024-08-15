@@ -65,6 +65,24 @@ Fine-tuned models were not included, because they were too large for this reposi
 
 ### CrowS Pairs
 
+We used Meade et al.'s (2022) [https://github.com/McGill-NLP/bias-bench](implementation) of CrowsPairs.
+
+```sh
+mkdir external_libs
+cd external_libs
+git clone https://github.com/McGill-NLP/bias-bench.git
+```
+
 ### RedditBias
 
+We used Barikeri et al.'s (2021) [https://github.com/umanlp/RedditBias](implementation) of RedditBias. 
+
+```sh
+cd external_libs
+git clone https://github.com/umanlp/RedditBias.git
+```
+
 ### HONEST
+
+For the HONEST evaluation, we used the python package from [https://github.com/MilaNLProc/honest](MilaNLP). 
+

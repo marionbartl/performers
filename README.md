@@ -1,6 +1,6 @@
 # From _Showgirls_ to _Performers_: Fine-tuning with Gender-inclusive Language for Bias Reduction in LLMs
 
-This repository contains the official code and data for the experiments carried out in our paper "From _Showgirls_ to _Performers_: Fine-tuning with Gender-inclusive Language for Bias Reduction in LLMs". 
+This repository contains the official code and data for the experiments carried out in our paper [https://aclanthology.org/2024.gebnlp-1.18/]("From _Showgirls_ to _Performers_: Fine-tuning with Gender-inclusive Language for Bias Reduction in LLMs"), published at the GeBNLP Workshop at ACL 2024 in Bangkok. 
 
 The steps are as follows: 
 
